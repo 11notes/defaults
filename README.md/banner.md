@@ -1,1 +1,0 @@
-![Banner](https://github.com/11notes/defaults/blob/main/static/img/banner.png?raw=true)

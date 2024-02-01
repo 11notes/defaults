@@ -1,1 +1,0 @@
-# ${{ EMOJI }} ${{ DISTRO }} // ${{ NAME }}
